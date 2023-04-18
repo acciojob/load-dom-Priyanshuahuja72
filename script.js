@@ -1,8 +1,5 @@
 //your JS code here. If required.
-function add_element () {
-   document.body.innerText = "DOM load success"
-}
-function myLoad()
+function loading()
 {
-   add_element();
+   document.body.innerHTML = "<p>DOM load success</p>"
 }
