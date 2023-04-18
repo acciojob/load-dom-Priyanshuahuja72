@@ -1,6 +1,6 @@
 //your JS code here. If required.
 function add_element () {
-   document.body.innerHTML = "DOM load success"
+   document.body.innerText = "DOM load success"
 }
 function myLoad()
 {
